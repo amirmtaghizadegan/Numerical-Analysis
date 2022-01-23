@@ -2,8 +2,8 @@ clear
 close all
 clc
 % example
-## b=[7.85 -19.3 71.4];
-## a=[3 -.1 -.2;.1 7 -.3;.3 -.2 10];
+b=[7.85 -19.3 71.4];
+a=[3 -.1 -.2;.1 7 -.3;.3 -.2 10];
 b=input('please enter b as a matrix: ');
 a=input('please enter a as a matrix: ');
 x=zeros(1,length(a));
